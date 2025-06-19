@@ -222,5 +222,5 @@ DELETE http://localhost:3000/api/consultas/1
 ## ℹ️ Disclaimer
 
 Por el momento no he llegado a agregar JWT, ni la validación de usuarios. Para realizar este proyecto, tuve algunas conversaciones con la recepcionista de una clínica veterinaria amiga.
-Ella me dijo que no sería tan necesario sumar validaciones por usuarios, etc. De todos modos, mi intensión es agregarlo para entender como funciona y ponerlo en práctica.
+Ella me dijo que no sería tan necesario sumar validaciones por usuarios, etc, porque lo estarían utilizando localmente. De todos modos, mi intensión es agregarlo para entender como funciona y ponerlo en práctica.
 Espero poder tenerlo listo para la próxima entrega.
